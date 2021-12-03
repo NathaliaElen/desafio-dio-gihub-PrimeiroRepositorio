@@ -1,0 +1,16 @@
+Instalação e Configuração do Visual Studio no Windowns
+
+Link para baixar o Visual Studio:
+https://visualstudio.microsoft.com/pt-br/downloads/
+
+Vamos fazer o downloads do Visual Studio na versão comunidade. Porque as versões professional e Enterprise são pagas!
+Após o downloads iremos instalar o Visual Studio no nosso computador e instalar as cargas de trabalho que serão utilizadas. Não é necessário instalar todas as caras de trabalho, já que são pesadas e podem ser instaladas a qualquer momento, de acordo com o site da Microsoft.
+Qual carga de trabalho iremos instalar no momento?
+Desenvolvimento para desktop com .Net > Selecione > Instalar.
+
+Dicas:
+Caso você precise instalar mais cargas de trabalho no Visual Studio:
+Acesse ferramentas > Obter ferramentas > Recursos... que abre no instalador do Visual Studio. 
+Outra opção:
+instalador do Visual Studio no menu iniciar.
+Assim, é possível esolher as caras de trabalho ou os componentes que você deseja instalar. Em seguida, escolha modificar.
